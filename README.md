@@ -1,4 +1,4 @@
-## Hi there 👋
+## Building INCE – The future of transparent and efficient models systems. Founder of Reapl.
 
 <!--
 **sysnwy/sysnwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
